@@ -1,9 +1,9 @@
 GIT
   remote: git@github.com:appcanary/appcanary.rb.git
-  revision: 997e5a2962011cb11d1c8c3f3d8ddde737f4ff17
+  revision: 5b344de4bdf047283c0191958d4876147d0da8eb
   branch: phillmv/check-should-fail
   specs:
-    appcanary (0.1.2)
+    appcanary (0.1.3)
       json (>= 1.8.3)
       multipart-post (~> 2.0)
 
