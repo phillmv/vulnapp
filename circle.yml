@@ -1,0 +1,7 @@
+test:
+  # [ ... other dependency bits elided ... ]
+  post:
+    # outputs CVEs and references
+    - bundle exec rake appcanary:check
+    # update the appcanary monitor for this app
+    # - bundle exec rake appcanary:update_monitor
